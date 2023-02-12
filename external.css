@@ -1,0 +1,11 @@
+*{
+    background-color: pink;
+}
+h1{
+    color: blue;
+    font-size: 30px;
+}
+ul, li{
+    color: green;
+    font-size: 24px;
+}
